@@ -1,0 +1,14 @@
+Experiment 6: Storage File Accessed Remotely
+
+Aim:
+To access storage files remotely from a Virtual Machine using Git and FileZilla.
+
+Remote access and Git Synchronization:
+1. Clone repository on Host and VM.
+2. Synchronize changes using Git.
+3. Git push from Host.
+4. Git pull on VM.
+5. Access file content using FileZilla.
+
+Conclusion:
+Storage file accessed remotely from the VM using Git and FileZilla successfully.
